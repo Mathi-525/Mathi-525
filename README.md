@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mathi-525
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python development courses
+- 👀 I’m interested in R programming for Data Science
+- 🌱 I’m currently learning Data Science courses
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me by email
 - 😄 Pronouns: ...
